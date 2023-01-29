@@ -1,2 +1,1 @@
-# Horiseon-Solutions
-This repository includes the webpage of Horiseon Solutions.
+# Code Refactor Starter Code
