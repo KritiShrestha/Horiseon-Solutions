@@ -1,6 +1,6 @@
 
-# Horiseon Solution Services
-A webpage for Horiseon Social Solution Services
+# Horiseon Solution Services 
+A webpage for Horiseon Social Solution Services 
 
 ## Description
 Horiseon Solution is a social media marketing company that would help several firms and business to advertise themselves, reaching maximum amount of people and finding right clients for them. 
